@@ -1,0 +1,11 @@
+/* Writing Habit Obsidian Plugin — base styles
+ *
+ * MUI/Emotion styles are injected inside the Shadow DOM, so Obsidian's global
+ * CSS cannot interfere with the plugin UI. Only the outer container sizing
+ * needs to be set here.
+ */
+
+.writing-habit-sidebar {
+  height: 100%;
+  overflow: hidden;
+}
