@@ -1,7 +1,7 @@
 {
   "id": "writing-habit",
   "name": "Writing Habit",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "minAppVersion": "1.5.0",
   "description": "Track your typed words, pasted words, sprints, streaks, and leaderboards, synced with your Writing Habit account.",
   "author": "Writing Habit",
